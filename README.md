@@ -1,7 +1,7 @@
 # NoteTaker
   
   ## Description
-  A simple appl that allows the user to take and save notes. Uses HTML, JS, CSS, and JSON.
+  A simple app that allows the user to take and save notes. Uses HTML, JS, CSS, and JSON.
 
   ## Credits
   Michael 'Heff' Heffron
